@@ -1,0 +1,2 @@
+# final-project-student-performance-analysis-using-excel-and-power-bi
+Student Performance Analysis using Excel and Power BI. This project analyzes 6,607 student records from a Kaggle dataset. Excel was used for data cleaning and preparation, while Power BI was used to create interactive dashboards and reports to explore factors such as attendance, previous scores, family background, and student performance.
